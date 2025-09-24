@@ -4,9 +4,9 @@
 <br> 
 
 🔧 Skills & Tools
-- Programming & Data: Python (Pandas, Matplotlib), SQL, Java, HTML, PHP, CSS, JavaScript
+- Programming & Data: Python (Pandas), SQL, Java, HTML, PHP, CSS, JavaScript
 - Visualization: Power BI, Excel (Power Query, Power Pivot)
-- Other Interests: Product design, coding projects, and building data-driven solutions
+- Other Interests: Application design, coding projects, and building data-driven solutions
 
 <br> 
 
