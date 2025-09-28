@@ -1,12 +1,12 @@
 ## Hi there, I'm Kai Yi 👋 
-🎓 Applied Mathematics with Computing student
+🎓 Applied Mathematics with Computing Graduate
 
 <br> 
 
 🔧 Skills & Tools
-- Programming & Data: Python (Pandas), SQL, Java, HTML, PHP, CSS, JavaScript
+- Programming & Data: Python (Pandas), SQL, Java, HTML, PHP, CSS, JavaScript, C++
 - Visualization: Power BI, Excel (Power Query, Power Pivot)
-- Other Interests: Application design, coding projects, and building data-driven solutions
+- Other Interests: Application design, Coding projects, and Building data-driven solutions
 
 <br> 
 
